@@ -27,4 +27,4 @@ This script is intended to automate your reconnaissance process in an organized 
 - Generate a HTML report with output from the tools above
 
 
-
+Shoutout to [@nahamsec](https://github.com/nahamsec/lazyrecon)
