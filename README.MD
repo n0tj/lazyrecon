@@ -7,6 +7,9 @@
 
 ```
 
+# Fork of Lazyrecon
+I plan to build this out for my own tools soon, the HTML output is pretty sweet. I also included the authors `BBHT` -> `install.sh` tool set I might clean that up as well, as `Lazyrecon` doesn't actually utilize all of them.
+
 # Usage
 
 `./lazyrecon.sh target.com`
@@ -23,7 +26,5 @@ This script is intended to automate your reconnaissance process in an organized 
 - Perform dirsearch 
 - Generate a HTML report with output from the tools above
 
-This requires [Bug Bounty Hunting Tools](https://github.com/nahamsec/bbht) in order for the tools to work. 
 
-**Warning:** This code was originally created for personal use for myself, so it's  a bit messy and hopefully it'll be cleaned up with more features in a later release. 
 
